@@ -31,3 +31,6 @@ obj/
 # Other
 *.user
 *.log
+
+# Vscode
+.vscode/

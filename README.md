@@ -2,7 +2,6 @@
 
 ## 简介 (Introduction)
 FastTextSearch 是一个高性能、多线程的 C++ 应用程序，旨在对指定目录下的文本文件内容进行递归搜索。通过字符串匹配算法和并发处理技术实现对大型文件系统的高效、快速搜索。
-
 FastTextSearch is a high-performance, multi-threaded C++ application designed for recursively searching text content within files across specified directories. It leverages advanced string matching algorithms and concurrent processing techniques to achieve efficient and rapid searches across large file systems.
 
 ## 特性 (Features)
