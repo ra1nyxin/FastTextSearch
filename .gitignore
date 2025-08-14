@@ -1,0 +1,33 @@
+# Compiled Object files
+*.obj
+*.o
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.filters
+*.suo
+*.opensdf
+*.sdf
+*.ipch
+*.VC.db
+*.VC.VC.opendb
+
+# Build directories
+x64/
+Debug/
+Release/
+bin/
+obj/
+
+# Debugging files
+*.pdb
+
+# Other
+*.user
+*.log
