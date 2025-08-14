@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-  <h1><img src="https://github.com/images/mona-happy.gif" width="40px"> FastTextSearch <img src="https://github.com/images/mona-happy.gif" width="40px"></h1>
-</div>
+# FastTextSearch <img src="https://github.com/images/mona-happy.gif" width="40px">
 
 ## 简介 (Introduction)
 FastTextSearch 是一个高性能、多线程的 C++ 应用程序，旨在对指定目录下的文本文件内容进行递归搜索。通过字符串匹配算法和并发处理技术实现对大型文件系统的高效、快速搜索。
